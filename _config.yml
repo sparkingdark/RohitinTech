@@ -109,3 +109,13 @@ search:
   path: search.xml
   field: post
   content: false
+
+sitemap:
+  path: sitemap.xml
+  rel: false
+  tags: true
+  categories: true
+
+robotstxt:
+  useragent: "*"
+  sitemap: /sitemap.xml
