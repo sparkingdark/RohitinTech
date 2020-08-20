@@ -118,4 +118,5 @@ sitemap:
 
 robotstxt:
   useragent: "*"
+  disallow: 
   sitemap: /sitemap.xml
